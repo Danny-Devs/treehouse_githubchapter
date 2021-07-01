@@ -1,2 +1,2 @@
 # treehouse_githubchapter
- Following along
+ Following along. Treehouse is pretty solid.
